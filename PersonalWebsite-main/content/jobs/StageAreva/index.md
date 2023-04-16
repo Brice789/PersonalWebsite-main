@@ -3,7 +3,7 @@ date: '2022-08-14'
 title: 'Engineer'
 company: 'Areva'
 location: 'Boston, MA'
-range: '2021 - 3.5 month'
+range: '2022 - 3.5 month'
 url: 'https://www.sa.areva.com/'
 ---
 
